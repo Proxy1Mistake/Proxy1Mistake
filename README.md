@@ -2,7 +2,7 @@
   
 <header>
   
-<h1 align = "center">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐢'𝐦 🔻𝐏𝐫𝐨𝐱𝐲 𝐌𝐚𝐥𝐥𝐞𝐭🔺</h1>
+<h1 align = "center">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐢'𝐦 🔻𝐏͠𝐫͠𝐨͠𝐱͠𝐲͠ ͠𝐌͠𝐚͠𝐥͠𝐥͠𝐞͠𝐭͠ ͠🔻</h1>
 <h1 align = "center"><img src="https://avatars.githubusercontent.com/u/90175549?v=4", width = 40%%, height = 40%></h1>
 <h4 align = "center">𝐈 𝐰𝐚𝐭𝐜𝐡𝐞𝐝 𝟖𝟔 𝐚𝐧𝐢𝐦𝐞<br></br>𝐂𝐨𝐝𝐞 𝐢𝐧 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 : 𝐏𝐲𝐭𝐡𝐨𝐧</h4>
   
