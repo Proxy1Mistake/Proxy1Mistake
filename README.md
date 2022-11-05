@@ -33,5 +33,4 @@
     <a href = "https://t.me/Proxy1Mallet" target="_blank">
     <img src = "https://img.shields.io/badge/𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </details>
-<link rel="stylesheet" href="testik.css">
 </h3>
