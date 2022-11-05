@@ -6,12 +6,12 @@
     <summary>𝐀 𝐥𝐢𝐭𝐭𝐥𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 :</summary>
     <table align = "center">
       <tr>
-      <th>Number of anime watched : </th>
-      <td>86</td>
+      <th>𝐍𝐮𝐦𝐛𝐞𝐫 𝐨𝐟 𝐚𝐧𝐢𝐦𝐞 𝐰𝐚𝐭𝐜𝐡𝐞𝐝 : </th>
+      <td>𝟖𝟔</td>
       </tr>
       <tr>
-      <th>Programming language : </th>
-      <td>Python</td>
+      <th>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : </th>
+      <td>𝐏𝐲𝐭𝐡𝐨𝐧</td>
       </tr>
     </table>
   </details>
@@ -31,6 +31,6 @@
     <a href = "https://vk.com/Proxy1Mallet" target="_blank">
     <img src = "https://img.shields.io/badge/𝐕𝐊-2CA5E0?style=for-the-badge&logo=vk&logoColor=white">
     <a href = "https://t.me/Proxy1Mallet" target="_blank">
-    <img src = "https://img.shields.io/badge/𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌-2CA5E0?style=for-the-badge&logo=tg&logoColor=white">
+    <img src = "https://img.shields.io/badge/𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </details>
 </h3>
