@@ -16,7 +16,6 @@
     </table>
   </details>
 </h3>
-<h3>хм</h3>
 <h3 align = "center">
   <details>
     <summary><img src = "https://ru.bloggif.com/tmp/7499056ceb1dbf6cb2e9dfc068873d82/text.gif?1667674217"></summary>
@@ -34,4 +33,3 @@
     <img src = "https://img.shields.io/badge/𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </details>
 </h3>
-<link rel="stylesheet" href="testik.css">
