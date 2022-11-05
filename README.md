@@ -1,7 +1,3 @@
-<html>
-  
-<header>
-  
 <h1 align = "center">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐢'𝐦 🔻𝐏͠𝐫͠𝐨͠𝐱͠𝐲͠ ͠𝐌͠𝐚͠𝐥͠𝐥͠𝐞͠𝐭͠ ͠🔻</h1>
 <h3 align = "center"><img src="https://avatars.githubusercontent.com/u/90175549?v=4", width = 40%%, height = 40%></h3>
   
@@ -21,10 +17,6 @@
   </details>
 </h3>
   
-</header>
-
-<body>
-  
 <h3 align = "center">
   <details>
     <summary>𝐌𝐲 𝐬𝐭𝐚𝐭𝐬 :</summary>
@@ -42,7 +34,3 @@
     <img src = "https://img.shields.io/badge/𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌-2CA5E0?style=for-the-badge&logo=tg&logoColor=white">
   </details>
 </h3>
-  
-</body>
-  
-</html>
