@@ -8,8 +8,16 @@
 <h3 align = "center">
   <details>
     <summary>𝐀 𝐥𝐢𝐭𝐭𝐥𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 :</summary>
-    <br>◽️𝐈 𝐰𝐚𝐭𝐜𝐡𝐞𝐝 𝟖𝟔 𝐚𝐧𝐢𝐦𝐞</br>
-    <br>◽️𝐂𝐨𝐝𝐞 𝐢𝐧 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 : 𝐏𝐲𝐭𝐡𝐨𝐧</br>
+    <table align = "center">
+      <tr>
+      <th>Number of anime watched : </th>
+      <td>86</td>
+      </tr>
+      <tr>
+      <th>Programming language : </th>
+      <td>Python</td>
+      </tr>
+    </table>
   </details>
 </h3>
   
