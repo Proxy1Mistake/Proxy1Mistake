@@ -1,5 +1,5 @@
 <h1 align = "center">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐢'𝐦 🔻𝐏͠𝐫͠𝐨͠𝐱͠𝐲͠ ͠𝐌͠𝐚͠𝐥͠𝐥͠𝐞͠𝐭͠ ͠🔻</h1>
-<h3 align = "center"><img src="https://avatars.githubusercontent.com/u/90175549?v=4", width = 40%%, height = 40%, border-style: solid></h3>
+<h3 align = "center"><img src="https://avatars.githubusercontent.com/u/90175549?v=4", width = 40%%, height = 40%></h3>
   
 <h3 align = "center">
   <details>
