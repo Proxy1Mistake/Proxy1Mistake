@@ -1,9 +1,9 @@
-<h1 align = "center"><img src="https://ru.bloggif.com/tmp/9a3eda3e87958626b4568d64675c7e71/text.gif?1667674066"></h1>
+<h1 align = "center">𝐇𝐢, 𝐢 𝐚𝐦 🔻𝐏͠𝐫͠𝐨͠𝐱͠𝐲͠ ͠𝐌͠𝐚͠𝐥͠𝐥͠𝐞͠𝐭͠ ͠🔻</h1>
 <h3 align = "center"><img src="https://avatars.githubusercontent.com/u/90175549?v=4", width = 40%%, height = 40%></h3>
   
 <h3 align = "center">
   <details>
-    <summary><img src="https://ru.bloggif.com/tmp/17868e13bd0b76246f5e305e869cefb8/text.gif?1667674121"></summary>
+    <summary>𝐀 𝐥𝐢𝐭𝐭𝐥𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 : </summary>
     <table align = "center">
       <tr>
       <th>𝐍𝐮𝐦𝐛𝐞𝐫 𝐨𝐟 𝐚𝐧𝐢𝐦𝐞 𝐰𝐚𝐭𝐜𝐡𝐞𝐝</th>
@@ -16,9 +16,10 @@
     </table>
   </details>
 </h3>
+
 <h3 align = "center">
   <details>
-    <summary><img src = "https://ru.bloggif.com/tmp/7499056ceb1dbf6cb2e9dfc068873d82/text.gif?1667674217"></summary>
+    <summary>𝐌𝐲 𝐬𝐭𝐚𝐭𝐬 : </summary>
     <img src = "https://github-profile-trophy.vercel.app/?username=Proxy1Mallet">
     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Proxy1Mallet">
   </details>
@@ -26,7 +27,7 @@
   
 <h3 align = "center">
   <details>
-    <summary><img src = "https://ru.bloggif.com/tmp/da33fc3002c5f56e6929609ad3f51a98/text.gif?1667674301"></summary>
+    <summary>𝐌𝐲 𝐒𝐨𝐜𝐢𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 : </summary>
     <a href = "https://vk.com/Proxy1Mallet" target="_blank">
     <img src = "https://img.shields.io/badge/𝐕𝐊-2CA5E0?style=for-the-badge&logo=vk&logoColor=white">
     <a href = "https://t.me/Proxy1Mallet" target="_blank">
