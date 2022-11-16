@@ -30,8 +30,7 @@
 <h3 align = "center">
   <details>
     <summary>𝐌𝐲 𝐬𝐭𝐚𝐭𝐬 : </summary>
-    <img src = "https://github-profile-trophy.vercel.app/?username=Proxy1Mallet">
-    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Proxy1Mallet">
+    <img src = "https://github-profile-trophy.vercel.app/?username=Proxy1Mallet&theme=dark_lover">
   </details>
 </h3>
   
