@@ -9,7 +9,8 @@ Ḣ̤̬̗̤î̡ͦ̇ͣ̆̿,̜͔͆ͨ͝ ̡͓͇̔͒i̫̞̱̩̭̼͒͑ͥͬͅ ̑ͮ̒̃
   
 <h3 align = "center">
   <details>
-    <summary>𝐀 𝐥𝐢𝐭𝐭𝐥𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 : </summary>
+    <summary> 
+A̠͔͚̺ͫ͒ ̧̼͚̘͚̝̥͓ͩ͗̚l̲͈̲͉͈̘ȉ̩̲̦̼͙͍̹ͭ̓̆ͨ̔t͙̞̀ͩ̆͗ͦ͘t̅ͮ͐̿l̨͔̞̗̰͇̝̇e͔͚͇͂̿̎̂̇ͦ͡ ̗̥̗̣̙̂̀á̤͙b̴͓͎̫̝̲̋͌̎͊ͅơu̱͍̰̺̐̂ͤt̝̉̏̆́ͬ ̞̣̝̠ͦ̆́m̮̟̹̩̰̋͐̂ͣ͑̈e̵͈̠ͥͯ̀̚ ̯ͥ̈́ͪ̉:̾̐͜ </summary>
     <table align = "center">
       <tr>
         <th>𝐍𝐮𝐦𝐛𝐞𝐫 𝐨𝐟 𝐚𝐧𝐢𝐦𝐞 𝐰𝐚𝐭𝐜𝐡𝐞𝐝</th>
@@ -29,14 +30,14 @@ Ḣ̤̬̗̤î̡ͦ̇ͣ̆̿,̜͔͆ͨ͝ ̡͓͇̔͒i̫̞̱̩̭̼͒͑ͥͬͅ ̑ͮ̒̃
 
 <h3 align = "center">
   <details>
-    <summary>𝐌𝐲 𝐬𝐭𝐚𝐭𝐬 : </summary>
+    <summary>M̯̯y̝̟̳̝̖̌ ̃ͦ͏̘s̨̥̹͇̗̝͖̭͋t͉̉ͫ͑̂ͅa̖͉̺̠͚̐ͦͣṱ̰̇ͪͤ͟s̵̫͈͖̭ͩ ̓̉̾̑̂͊͏̠͎̙͖̟̩:̦͙̥̎̈́̏̀͐ͦ </summary>
     <img src = "https://github-profile-trophy.vercel.app/?username=Proxy1Mallet&theme=dark_lover">
   </details>
 </h3>
   
 <h3 align = "center">
   <details>
-    <summary>𝐌𝐲 𝐒𝐨𝐜𝐢𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 : </summary>
+    <summary>M̤ͯỵ̷͚͕͙̝̗͛̑̄ͪ̋ ͈̻̞̺̑͘s͇̮̱̠̊͢ő͇̥̿ͫ̈́̐͊ͧ͠c͔̦̭ͤ̓ǐ̪͍̣̽ͧ̐a͇̝̞̦̤̲͗͗̍l̤ͣ ̏̇̒ͬͅn̥͚̘̮̹̰͗ͥ͋ͫ͑̎eͧ̄̒̈́t͎̺͔̯̪͙̉͐͊̅̆w͌ͫ̿͂̉o̴͈̓ͥ͑͊r̺̮ͩ͌ͩk͈͕͔̜͙̔̔̾ͣͨ͐͛͡ ̠̙̣̉ͣ͒͞:̰̜̘̥͇͐͢ͅ </summary>
     <br>
     <a href = "https://vk.com/Proxy1Mallet" target="_blank">
     <img src = "https://img.shields.io/badge/𝐕𝐊-92000a?style=for-the-badge&logo=vk&logoColor=red">
