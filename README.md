@@ -40,8 +40,6 @@ A̠͔͚̺ͫ͒ ̧̼͚̘͚̝̥͓ͩ͗̚l̲͈̲͉͈̘ȉ̩̲̦̼͙͍̹ͭ̓̆ͨ̔t̀�
   <details>
     <summary>M̤ͯỵ̷͚͕͙̝̗͛̑̄ͪ̋ ͈̻̞̺̑͘s͇̮̱̠̊͢ő͇̥̿ͫ̈́̐͊ͧ͠c͔̦̭ͤ̓ǐ̪͍̣̽ͧ̐a͇̝̞̦̤̲͗͗̍l̤ͣ ̏̇̒ͬͅn̥͚̘̮̹̰͗ͥ͋ͫ͑̎eͧ̄̒̈́t͎̺͔̯̪͙̉͐͊̅̆w͌ͫ̿͂̉o̴͈̓ͥ͑͊r̺̮ͩ͌ͩk͈͕͔̜͙̔̔̾ͣͨ͐͛͡ ̠̙̣̉ͣ͒͞:̰̜̘̥͇͐͢ͅ </summary>
     <br>
-    <a href = "https://vk.com/Proxy1Mallet", target="_blank">
-    <img src = 'https://bumper-stickers.ru/38066-thickbox_default/znak-v-kontakte.jpg', width = 60px>
     <a href = "https://t.me/Proxy1Mallet", target="_blank">
     <img src = "https://kangaviv.com/wp-content/uploads/2020/10/telegram-1.png", width = 60px>
     </br>
