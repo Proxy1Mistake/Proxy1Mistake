@@ -35,3 +35,10 @@ A̠͔͚̺ͫ͒ ̧̼͚̘͚̝̥͓ͩ͗̚l̲͈̲͉͈̘ȉ̩̲̦̼͙͍̹ͭ̓̆ͨ̔t̀�
     <img src = "https://github-profile-trophy.vercel.app/?username=Proxy1Mallet&theme=dark_lover">
   </details>
 </h3>
+
+<h3 align = "center">
+<details>
+<summary>Ṁ̸̧̱̮̄̇y̷̜͕͙̾ ̷̳͋̿s̷̩̲̔ǒ̴̬͇̍͑c̴̞͒̕i̵̺̺̲̍á̸̢͙͘l̵͔̼̤̋͊ ̴̬̆̈́͝n̶̯̼̽̿ͅe̶̼͇͐t̴̛̺̗̳̃ẅ̴̟̠̱͗̈́ố̸̞r̷͓̔̾́k̶̪̀͜ ̶͇̽:̷̩͇̟͌̿ ̸͇̩̊̿ </summary>
+<br><a href = "https://t.me/Proxy1Mallet", target="_blank"><img src = "https://kangaviv.com/wp-content/uploads/2020/10/telegram-1.png", width = 60px></br>
+</details>
+</h3>
