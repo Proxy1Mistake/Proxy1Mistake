@@ -29,14 +29,6 @@ A̠͔͚̺ͫ͒ ̧̼͚̘͚̝̥͓ͩ͗̚l̲͈̲͉͈̘ȉ̩̲̦̼͙͍̹ͭ̓̆ͨ̔t̀�
     </table>
   </details>
 </h3>
-
-<h3 align = "center">
-  <details>
-    <summary>M̯̯y̝̟̳̝̖̌ ̃ͦ͏̘s̨̥̹͇̗̝͖̭͋t͉̉ͫ͑̂ͅa̖͉̺̠͚̐ͦͣṱ̰̇ͪͤ͟s̵̫͈͖̭ͩ ̓̉̾̑̂͊͏̠͎̙͖̟̩:̦͙̥̎̈́̏̀͐ͦ </summary>
-    <img src = "https://github-profile-trophy.vercel.app/?username=Proxy1Mallet&theme=dark_lover">
-  </details>
-</h3>
-
 <h3 align = "center">
 <details>
 <summary>Ṁ̸̧̱̮̄̇y̷̜͕͙̾ ̷̳͋̿s̷̩̲̔ǒ̴̬͇̍͑c̴̞͒̕i̵̺̺̲̍á̸̢͙͘l̵͔̼̤̋͊ ̴̬̆̈́͝n̶̯̼̽̿ͅe̶̼͇͐t̴̛̺̗̳̃ẅ̴̟̠̱͗̈́ố̸̞r̷͓̔̾́k̶̪̀͜ ̶͇̽:̷̩͇̟͌̿ ̸͇̩̊̿ </summary>
