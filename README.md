@@ -34,7 +34,11 @@ A̠͔͚̺ͫ͒ ̧̼͚̘͚̝̥͓ͩ͗̚l̲͈̲͉͈̘ȉ̩̲̦̼͙͍̹ͭ̓̆ͨ̔t̀�
 <summary>Ṁ̸̧̱̮̄̇y̷̜͕͙̾ ̷̳͋̿s̷̩̲̔ǒ̴̬͇̍͑c̴̞͒̕i̵̺̺̲̍á̸̢͙͘l̵͔̼̤̋͊ ̴̬̆̈́͝n̶̯̼̽̿ͅe̶̼͇͐t̴̛̺̗̳̃ẅ̴̟̠̱͗̈́ố̸̞r̷͓̔̾́k̶̪̀͜ ̶͇̽:̷̩͇̟͌̿ ̸͇̩̊̿ </summary>
 <br>
 <a href = "https://t.me/Proxy1Mallet" target="_blank">
-<img src = "https://img.shields.io/badge/TELEGRAM-92000a?style=for-the-badge&logo=tg&logoColor=red">
+<img src = "https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-92000a?style=for-the-badge&logo=telegram&logoColor=red">
 </br>
+<a href = "https://discordapp.com/users/875370793100533862/" target="_blank">
+<img src = "https://img.shields.io/badge/ᴅɪsᴄᴏʀᴅ-92000a?style=for-the-badge&logo=discord&logoColor=red">
+<br>
+</a>
 </details>
 </h3>
