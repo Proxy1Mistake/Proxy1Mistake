@@ -4,13 +4,12 @@
        height = 40%
   >
   <br></br>
-Ḣ̤̬̗̤î̡ͦ̇ͣ̆̿,̜͔͆ͨ͝ ̡͓͇̔͒i̫̞̱̩̭̼͒͑ͥͬͅ ̡̘̺̭͎̠̑ͮ̒̃a̬̪̒̆̌̿͜m̞͈̙͔̫̬̱ͨ̑̅ͧ ̶͇̩͚̯̐ͬ̿̏̊̋ͬP͖̾̑ͣ̎ͬ̑̀r̠̝̞̝̟̙̞̓ͥ͝ǫ͙͙̪̭̰̘xͨ̑̄̄͑̊̐͘y͉̗̹̐̚ ͔͇̬͗̃ͪͬ͞M͈͔̦̊̂̌͒ͯa͊҉̘lͬ̊l̩̰͇̬̭͓ͥ͗͢ȇ̟̲͚̝ͤͅt̳͚͍
+<img src = "https://de22-engine.flamingtext.com/netfu/tmp28001/coollogo_com-1105131.png"></img>
 </h1>
   
 <h3 align = "center">
   <details>
-    <summary> 
-A̠͔͚̺ͫ͒ ̧̼͚̘͚̝̥͓ͩ͗̚l̲͈̲͉͈̘ȉ̩̲̦̼͙͍̹ͭ̓̆ͨ̔t͙̞̀ͩ̆͗ͦ͘t̅ͮ͐̿l̨͔̞̗̰͇̝̇e͔͚͇͂̿̎̂̇ͦ͡ ̗̥̗̣̙̂̀á̤͙b̴͓͎̫̝̲̋͌̎͊ͅơu̱͍̰̺̐̂ͤt̝̉̏̆́ͬ ̞̣̝̠ͦ̆́m̮̟̹̩̰̋͐̂ͣ͑̈e̵͈̠ͥͯ̀̚ ̯ͥ̈́ͪ̉:̾̐͜ </summary>
+    <summary><img src = "https://ov12-engine.flamingtext.com/netfu/tmp28002/coollogo_com-194312353.png"></img></summary>
     <table align = "center">
       <tr>
         <th>P͍̈́̍̿̇ͦrͦ̏̈og̻͠r̮̥̳̪͔͎̻͗̆̊͛̋̑̾ȃ̸͌̐ͪͥ̾ͭm̬̈́̿̀m̛͓̻ï̳͊ͧ̾̓ṋ̭͙̭͋̀̀͢ͅg̍ͮ̑͋ͮ̓͋̀ ̨̙̙̱̬̞̓l̨̤̬̫̞a̷͈̝̱͕̝͈̘ͮ̓͋̄̒̄n̗̖͉͊̑ͭ̅͟g͕͙͕͈̙̳̋ͅu̷̜̭͖̣͐̾͗̓̉̃a̻̬̯͎̥ͭ̀͐͊g̣̑̒e͕͍̪͙̽̉͝</th>
@@ -31,7 +30,7 @@ A̠͔͚̺ͫ͒ ̧̼͚̘͚̝̥͓ͩ͗̚l̲͈̲͉͈̘ȉ̩̲̦̼͙͍̹ͭ̓̆ͨ̔t̀�
 </h3>
 <h3 align = "center">
 <details>
-<summary>Ṁ̸̧̱̮̄̇y̷̜͕͙̾ ̷̳͋̿s̷̩̲̔ǒ̴̬͇̍͑c̴̞͒̕i̵̺̺̲̍á̸̢͙͘l̵͔̼̤̋͊ ̴̬̆̈́͝n̶̯̼̽̿ͅe̶̼͇͐t̴̛̺̗̳̃ẅ̴̟̠̱͗̈́ố̸̞r̷͓̔̾́k̶̪̀͜ ̶͇̽:̷̩͇̟͌̿ ̸͇̩̊̿ </summary>
+<summary><img src = "https://de5-engine.flamingtext.com/netfu/tmp28003/coollogo_com-5278151.png"></img></summary>
 <br>
 <a href = "https://t.me/Proxy1Mallet" target="_blank">
 <img src = "https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-92000a?style=for-the-badge&logo=telegram&logoColor=red">
