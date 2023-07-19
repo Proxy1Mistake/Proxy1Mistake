@@ -2,15 +2,13 @@
   <img src = "https://avatars.githubusercontent.com/u/90175549?v=4", 
        width = 40%, 
        height = 40%
-  >
-<img src = "https://de22-engine.flamingtext.com/netfu/tmp28001/coollogo_com-1105131.png"></img>
 <br></br>
-<img src = "https://de6-engine.flamingtext.com/netfu/tmp28003/coollogo_com-2637480.png"></img>
+<p>H̹͓̼ͯͪͤiͭͫ,̯̬ ̆̑͝Į̞͖̞'̊̓̇ͬ͒̊͏̹̳͎̗̤̤̣m̧͇͚̣ ̨͍̻̘͖͍ͤ̾P̦̙͖ͭ̅r̜̮̦̭͎͓͑ͤͬͫ͠o̫̰͙͎̮̰x̪͚͉ͭy̵͉̥͋ͯ̋ͫͩ ̦͓̣͐ͪ̊̋̀ͥ̋͡M͎̻͕̮̳͔ͤͪ͌̿ͮ̓̌͞a̦̥̭̬ͩ͟l̹̼ͮ̌ͫͧl̋ḛ̦̼̪̋̆t͈̭͖͌̋</p>
 </h1>
   
 <h3 align = "center">
   <details>
-    <summary><img src = "https://ov12-engine.flamingtext.com/netfu/tmp28002/coollogo_com-194312353.png"></img></summary>
+    <summary>S̱̮͖͎̱̗͂ͧ͆̌̂o͙̻͌̆͋̂͆̀m̫͉̹ͥ̓̋ͯͫ̽͠e̩̜͙ͬͯ̂ͅ ̢͚͋ͫ̓̉̉̿i̵̯͔̜̻̝̒ņͫͫf͉̞ͧ͊o̞͇͉̹͙͓ͪͩ̒ͤ̏r͍͔̙̤̹ͮͪ͢m̴̤̼̱ͯ͑̔ͅͅa̫̳͓̜͑ͣ́ͩt̘̥̽̾̃ï̦̭̞͙̟͉̂̆͊̀ͅo̭̅̽ͪn̨̥̅ͧͭ̚ ̶̪͚̠̤̠̉å̠̠̱̺b̒͑͛̑o͔̙ͯ͗ͯ͐́u͔͉̘͕̳͊̌ṭ̭̱̥͇ͭ͒ͨ́͐ͨ ̬͇̳̰́m͍̠̭̹ͪe̦̳͕̦̽̍͌ ͍͙̭͚̦̊͒͠:̒̈́͆ͩ͆̉</summary>
     <table align = "center">
       <tr>
         <th>P͍̈́̍̿̇ͦrͦ̏̈og̻͠r̮̥̳̪͔͎̻͗̆̊͛̋̑̾ȃ̸͌̐ͪͥ̾ͭm̬̈́̿̀m̛͓̻ï̳͊ͧ̾̓ṋ̭͙̭͋̀̀͢ͅg̍ͮ̑͋ͮ̓͋̀ ̨̙̙̱̬̞̓l̨̤̬̫̞a̷͈̝̱͕̝͈̘ͮ̓͋̄̒̄n̗̖͉͊̑ͭ̅͟g͕͙͕͈̙̳̋ͅu̷̜̭͖̣͐̾͗̓̉̃a̻̬̯͎̥ͭ̀͐͊g̣̑̒e͕͍̪͙̽̉͝</th>
@@ -31,7 +29,7 @@
 </h3>
 <h3 align = "center">
 <details>
-<summary><img src = "https://de5-engine.flamingtext.com/netfu/tmp28003/coollogo_com-5278151.png"></img></summary>
+<summary>M̊̈́ͮ̈̾̐y͋͌҉͙̟̹͉̥ ̥̠͚͢S̮̳̰̩͗̏̋̍ͪͮo̷̱̮̍ͤ̉c̢̝̣͋̿̐̊̍̍̍į̄̔à̸̱͚̪ͨͨ̊ͅl̮͆ͩ̌́ ̻̰͔̙̪̩̑̈͊N͎ͭ̂̉ȅ̹̭ͬ͊̏ͫt̟͙ͥ̊w̼̰̭̫̜͛̄̈̌̀ͣö̱̪̳͎̟̭ͯr͇̱͖̉ͪ̈̌ͩͭk̸̰͓ͤ ̝̠̻̤͉̙̲̽̂̅ͨͩ̔̆̕:̪̱̻̱̲̰͕ͤ̾̂ͪ̐ ͙̩̦͈̝͔̊ͮ̉ͨ̉</summary>
 <br>
 <a href = "https://t.me/Proxy1Mallet" target="_blank">
 <img src = "https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-92000a?style=for-the-badge&logo=telegram&logoColor=red">
