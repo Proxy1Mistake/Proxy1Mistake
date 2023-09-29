@@ -1,42 +1,39 @@
 <h1 align = "center">
-  <img src = "https://avatars.githubusercontent.com/u/90175549?v=4", 
-       width = 40%, 
-       height = 40%
-<br></br>
-<p>H̹͓̼ͯͪͤiͭͫ,̯̬ ̆̑͝Į̞͖̞'̊̓̇ͬ͒̊͏̹̳͎̗̤̤̣m̧͇͚̣ ̨͍̻̘͖͍ͤ̾P̦̙͖ͭ̅r̜̮̦̭͎͓͑ͤͬͫ͠o̫̰͙͎̮̰x̪͚͉ͭy̵͉̥͋ͯ̋ͫͩ ̦͓̣͐ͪ̊̋̀ͥ̋͡M͎̻͕̮̳͔ͤͪ͌̿ͮ̓̌͞a̦̥̭̬ͩ͟l̹̼ͮ̌ͫͧl̋ḛ̦̼̪̋̆t͈̭͖͌̋</p>
+  <img src = "https://avatars.githubusercontent.com/u/90175549?v=4", width = 40%, height = 40%>
+  <br></br>
+  ʜɪ ɪ'ᴍ ᴘʀᴏxʏ ᴍᴀʟʟᴇᴛ
 </h1>
   
-<h3 align = "center">
-  <details>
-    <summary>S̱̮͖͎̱̗͂ͧ͆̌̂o͙̻͌̆͋̂͆̀m̫͉̹ͥ̓̋ͯͫ̽͠e̩̜͙ͬͯ̂ͅ ̢͚͋ͫ̓̉̉̿i̵̯͔̜̻̝̒ņͫͫf͉̞ͧ͊o̞͇͉̹͙͓ͪͩ̒ͤ̏r͍͔̙̤̹ͮͪ͢m̴̤̼̱ͯ͑̔ͅͅa̫̳͓̜͑ͣ́ͩt̘̥̽̾̃ï̦̭̞͙̟͉̂̆͊̀ͅo̭̅̽ͪn̨̥̅ͧͭ̚ ̶̪͚̠̤̠̉å̠̠̱̺b̒͑͛̑o͔̙ͯ͗ͯ͐́u͔͉̘͕̳͊̌ṭ̭̱̥͇ͭ͒ͨ́͐ͨ ̬͇̳̰́m͍̠̭̹ͪe̦̳͕̦̽̍͌ ͍͙̭͚̦̊͒͠:̒̈́͆ͩ͆̉</summary>
+<h4 align = "center">
+  ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍᴇ :
     <table align = "center">
       <tr>
-        <th>P͍̈́̍̿̇ͦrͦ̏̈og̻͠r̮̥̳̪͔͎̻͗̆̊͛̋̑̾ȃ̸͌̐ͪͥ̾ͭm̬̈́̿̀m̛͓̻ï̳͊ͧ̾̓ṋ̭͙̭͋̀̀͢ͅg̍ͮ̑͋ͮ̓͋̀ ̨̙̙̱̬̞̓l̨̤̬̫̞a̷͈̝̱͕̝͈̘ͮ̓͋̄̒̄n̗̖͉͊̑ͭ̅͟g͕͙͕͈̙̳̋ͅu̷̜̭͖̣͐̾͗̓̉̃a̻̬̯͎̥ͭ̀͐͊g̣̑̒e͕͍̪͙̽̉͝</th>
-        <th>M̹͎͙̣̺̋y̪̖̑ͮ͑̇͂̀ ̯̦̱̯͍͈͔̃̊ͬͪḩ͍͈̭̭̭͚̓ͅö̻̯̜́b̲̙͉̜̲ͦ̐̿ͣ͟b̤͙̪̱̮̳ͮ̾͂͂͌̍ỉ̆e͎̲̣̣s̟</th>
+        <th>ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇ</th>
+        <th>ᴍʏ ʜᴏʙʙɪᴇs</th>
       </tr>
       <tr>
-        <td>P̫̠̦͆͑ͧͩ̿yt͓̥̱̖͕̮̬̅̐̈̓̕hͥ̀͊̿͌͞ö̗̠́ͧn̰ͧͬͣ̅🐍</td>
-        <td>P̡̯̱̰͕͔ṙ̸̥̬̹ͩ͗ͦ̂̚o̟̙̲̟̪̟̗͐͑g̻̻ͤ̽̽́rͨ̔ͮ̚͢a̷̝̞̜̲̤̣̍̓̒ͦ͋m͏̰̫̲ͅm̧̲̦̬̰̯͍͎̐̋i̘̘̱̹͙ͩ̄ͤ͒ͅn̢̙̣ͅǧ̲̞̼̦̜
-        <br></br> 
-          D̼̳̓̃ͭ͠ŗ̲͚̰̟̲̰͊̅͊a̭ͫ̉ͥ͒̈͋̚ẇ͊̈́i̭͓̙̥͙͌͂̌͐ͥͪ̕ṋ̖͇̳̘̞͌͐̂̅̎̋͂g̺̰̲̞͕̲̲
+        <td>ᴘʏᴛʜᴏɴ🐍</td>
+        <td>
+        ᴄᴏᴅɪɴɢ
         <br></br>
-          M̸̯̰̠͍͎̯á͈̱͇̅̉͑̎ͣķ̞ͩͬ̍̉̓ͧ͋i̛̹̘̯̘̹̟̳̔̈n̠̪̭̳̤̕ͅg̼̗̹͓̦͍͕̿͛ͩ͑ ̌͑̀̈ͫb͍͓͖̹̘͚́e͇͌͟ͅa̧̙̻͇̘͙̙͆t̡̫̪̍ͦ̀̏̋̅͆s͍̹̯͉̖͉
+        ᴅʀᴀᴡɪɴɢ
         <br></br>
-          ẁ͎̰̈́ͤ̋̍ͤͫả͍̻͈̗͕̱̂̉t͎̯̒͛c͉̖̖̻̯̖͐͝h̯̬̞̖̑̌̄̏̑̚͝ȋ̹̙n͚͕̥͚̪g͔̪͙̭͈̣͉͊ͥͧ̕ ̑͏̫͔͙͍͖ą͍͚͈͔͖̟̮̋͒n̻̻͙͇͍̯̾̓̚ͅi̦͕͈̿̃ͮ͛́ͮ͋m̴ͦ̾̓̌é̬</td>
-      </tr>
+        ᴍᴀᴋɪɴɢ ʙɪᴛs
+        <br></br>
+        ᴡᴀᴛᴄʜɪɴɢ ᴀɴɪᴍᴇ
     </table>
+    ɪ ᴄᴀɴ ᴄᴀʟʟ ᴍʏsᴇʟꜰ ᴀ ᴍᴏᴅᴇsᴛ ᴘʏᴛʜᴏɴ ᴄᴏᴅɪɴɢ ᴇɴᴛʜᴜsɪᴀsᴛ.
   </details>
-</h3>
-<h3 align = "center">
-<details>
-<summary>M̊̈́ͮ̈̾̐y͋͌҉͙̟̹͉̥ ̥̠͚͢S̮̳̰̩͗̏̋̍ͪͮo̷̱̮̍ͤ̉c̢̝̣͋̿̐̊̍̍̍į̄̔à̸̱͚̪ͨͨ̊ͅl̮͆ͩ̌́ ̻̰͔̙̪̩̑̈͊N͎ͭ̂̉ȅ̹̭ͬ͊̏ͫt̟͙ͥ̊w̼̰̭̫̜͛̄̈̌̀ͣö̱̪̳͎̟̭ͯr͇̱͖̉ͪ̈̌ͩͭk̸̰͓ͤ ̝̠̻̤͉̙̲̽̂̅ͨͩ̔̆̕:̪̱̻̱̲̰͕ͤ̾̂ͪ̐ ͙̩̦͈̝͔̊ͮ̉ͨ̉</summary>
-<br>
-<a href = "https://t.me/Proxy1Mallet" target="_blank">
-<img src = "https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-92000a?style=for-the-badge&logo=telegram&logoColor=red">
-</br>
-<a href = "https://discordapp.com/users/875370793100533862/" target="_blank">
-<img src = "https://img.shields.io/badge/ᴅɪsᴄᴏʀᴅ-92000a?style=for-the-badge&logo=discord&logoColor=red">
-<br>
-</a>
-</details>
-</h3>
+</h4>
+
+<h4 align = "center">
+  ᴍʏ sᴏᴄɪᴀʟ ɴᴇᴛᴏᴡʀᴋ : 
+  <br>
+  <a href = "https://t.me/Proxy1Mallet" target="_blank">
+  <img src = "https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-92000a?logo=telegram&logoColor=FFFFFF&labelColor=000000">
+  <a href = "https://discordapp.com/users/875370793100533862/" target="_blank">
+  <img src = "https://img.shields.io/badge/ᴅɪsᴄᴏʀᴅ-92000a?logo=discord&logoColor=FFFFFF&labelColor=000000">
+  </br>
+  </details>
+</h4>
+    
