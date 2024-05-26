@@ -1,7 +1,30 @@
 <h1 align = "center">
   <img src = "https://avatars.githubusercontent.com/u/90175549?v=4", width = 40%, height = 40%>
-  <img src = "information.png">
+  <br></br>
+  ʜɪ ɪ'ᴍ ᴘʀᴏxʏ ᴍɪsᴛᴀᴋᴇ
 </h1>
+  
+<h4 align = "center">
+  ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍᴇ :
+    <table align = "center">
+      <tr>
+        <th>ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇ</th>
+        <th>ᴍʏ ʜᴏʙʙɪᴇs</th>
+      </tr>
+      <tr>
+        <td>ᴘʏᴛʜᴏɴ🐍</td>
+        <td>
+        ᴄᴏᴅɪɴɢ
+        <br></br>
+        ᴅʀᴀᴡɪɴɢ
+        <br></br>
+        ᴍᴀᴋɪɴɢ ʙɪᴛs
+        <br></br>
+        ᴡᴀᴛᴄʜɪɴɢ ᴀɴɪᴍᴇ
+    </table>
+    ɪ ᴄᴀɴ ᴄᴀʟʟ ᴍʏsᴇʟꜰ ᴀ ᴍᴏᴅᴇsᴛ ᴘʏᴛʜᴏɴ ᴄᴏᴅɪɴɢ ᴇɴᴛʜᴜsɪᴀsᴛ.
+  </details>
+</h4>
 
 <h4 align = "center">
   ᴍʏ sᴏᴄɪᴀʟ ɴᴇᴛᴏᴡʀᴋ : 
