@@ -1,5 +1,5 @@
 <h1 align = "center">
-  <img src = "https://avatars.githubusercontent.com/u/90175549?v=4", width = 40%, height = 40%>
+  <img src = "https://github.com/Proxy1Mistake/Proxy1Mistake/blob/main/IMG_0004.jpeg", width = 40%, height = 40%>
   <br></br>
   ʜɪ ɪ'ᴍ ᴘʀᴏxʏ ᴍɪsᴛᴀᴋᴇ
 </h1>
